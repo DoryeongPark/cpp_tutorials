@@ -1,3 +1,0 @@
-﻿  main.cpp
-c:\users\felix\documents\visual studio 2015\projects\adp7-2\main.cpp(95): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
-  adp7-2.vcxproj -> C:\Users\Felix\Documents\Visual Studio 2015\Projects\adp7-2\Debug\adp7-2.exe
