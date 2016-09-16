@@ -1,0 +1,10 @@
+﻿  CardMatch.cpp
+  GameManager.cpp
+  코드를 생성하고 있습니다.
+c:\users\park\documents\visual studio 2015\projects\card match 1.1\doryeongpark.cpp(46): warning C4715: 'DoryeongPark::inputFirst': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  468 of 669 functions (70.0%) were compiled, the rest were copied from previous compilation.
+    92 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Card Match.vcxproj -> C:\Users\park\Documents\Visual Studio 2015\Projects\Card Match 1.1\Release\Card Match.exe
+  Card Match.vcxproj -> C:\Users\park\Documents\Visual Studio 2015\Projects\Card Match 1.1\Release\Card Match.pdb (Full PDB)

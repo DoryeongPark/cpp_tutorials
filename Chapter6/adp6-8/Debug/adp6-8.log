@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\felix\documents\visual studio 2015\projects\adp6-8\main.cpp(21): warning C4172: 지역 변수 또는 임시의 주소를 반환하고 있습니다.
+  adp6-8.vcxproj -> C:\Users\Felix\Documents\Visual Studio 2015\Projects\adp6-8\Debug\adp6-8.exe
